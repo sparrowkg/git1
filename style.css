@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #2E4158;
+  background: red;
 }
 button {
   width: 431px;
